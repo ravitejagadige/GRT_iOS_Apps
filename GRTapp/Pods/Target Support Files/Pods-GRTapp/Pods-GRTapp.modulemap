@@ -1,0 +1,6 @@
+framework module Pods_GRTapp {
+  umbrella header "Pods-GRTapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
